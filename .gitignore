@@ -3,6 +3,5 @@ __pycache__/
 *.pyc
 .venv/
 assistant.json
-*.docx
 .idea/
 *.log"
